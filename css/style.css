@@ -101,6 +101,11 @@ img.comma {
     cursor: pointer;
 }
 
+img.bts {
+    width: 200px;
+    padding: 20px 0;
+}
+
 
 a.comma {
 	filter: none;
