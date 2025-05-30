@@ -158,10 +158,13 @@ div.handle {
 	top: calc(50% - 10px); /* 50% - 3/4 of icon height */	
 }
 
-.wall {
+div.wall {
     height: 400px;
-    overflow-y: scroll;
     padding: 0 40px;
+}
+
+.wall {
+	overflow-y: scroll;
 }
 
 .col-1 {
