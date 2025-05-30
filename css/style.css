@@ -102,8 +102,8 @@ img.comma {
 }
 
 img.bts {
-    width: 200px;
-    padding: 20px 0;
+    width: 90%;
+    padding: 5px 0;
 }
 
 
@@ -156,6 +156,12 @@ p.name {
 div.handle {
  	position: relative;
 	top: calc(50% - 10px); /* 50% - 3/4 of icon height */	
+}
+
+div.wall {
+    height: 320px;
+    overflow-y: scroll;
+    padding: 0 40px;
 }
 
 .col-1 {
